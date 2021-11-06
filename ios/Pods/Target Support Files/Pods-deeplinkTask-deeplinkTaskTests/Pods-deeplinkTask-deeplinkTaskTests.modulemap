@@ -1,0 +1,6 @@
+module Pods_deeplinkTask_deeplinkTaskTests {
+  umbrella header "Pods-deeplinkTask-deeplinkTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
